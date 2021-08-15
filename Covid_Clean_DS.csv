@@ -1,4 +1,4 @@
-country,year_week,new_cases,sum_newcases,country_code,number_sequenced,sum_number_sequenced,sum_sequenced_pct,pct_sequenced_week,new
+country,year_week,new_cases,sum_newcases,country_code,number_sequenced,sum_number_sequenced,sum_sequenced_pct,pct_sequenced_week,new_date_format
 Austria,2020-40,5152.0,5152.0,AT,4,4,0.07763975155279502,0.07763975155279502,2020-10-05
 Austria,2020-41,7365.0,12517.0,AT,24,28,0.22369577374770314,0.3258655804480652,2020-10-12
 Austria,2020-42,9574.0,22091.0,AT,41,69,0.3123443936444706,0.4282431585544182,2020-10-19
