@@ -5,4 +5,5 @@ The following scripts (jupyter notebooks), are using interactive plots and appli
 or this link:
 
 COVID19 dataset: https://nbviewer.jupyter.org/github/AdrienOliva/DS_Exercise/blob/master/COVID19/COVID19_Analysis.ipynb
+
 USA Non-Fatal shooting: https://nbviewer.jupyter.org/github/AdrienOliva/DS_Exercise/blob/master/Shooting_USA/Shooting_USA.ipynb
